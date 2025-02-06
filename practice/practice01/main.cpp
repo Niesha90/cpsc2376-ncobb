@@ -60,21 +60,27 @@ int main() {
             std::cout << "Enter number: ";
             std::cin >> num;
             numbers.push_back(num);
-        } else if (choice == 2) {
+        }
+        else if (choice == 2) {
             printVector(numbers);
-        } else if (choice == 3) {
+        }
+        else if (choice == 3) {
             doubleVector(numbers);
-           std::cout << "Vector doubled.\n";
-        } else if (choice == 4) {
+            std::cout << "Vector doubled.\n";
+        }
+        else if (choice == 4) {
             std::cout << "Sum: " << calculateSum(numbers) << std::endl;
-        } else if (choice == 5) {
+        }
+        else if (choice == 5) {
             int value;
-           std::cout << "Enter a number to find its multiples: ";
+            std::cout << "Enter a number to find its multiples: ";
             std::cin >> value;
             printMultiples(numbers, value);
-        } else if (choice == 6) {
+        }
+        else if (choice == 6) {
             std::cout << "Exiting.\n";
-        } else {
+        }
+        else {
             std::cout << "Invalid choice. Try again.\n";
         }
     }
