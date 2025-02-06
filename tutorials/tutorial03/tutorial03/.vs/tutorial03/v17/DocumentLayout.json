@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\tutorials\\tutorial03\\tutorial03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754D2515-8FD7-4636-8BE6-3D12995CF192}|..\\..\\..\\practice\\practice02\\practice02.vcxproj|C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\practice\\practice02\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754D2515-8FD7-4636-8BE6-3D12995CF192}|..\\..\\..\\practice\\practice02\\practice02.vcxproj|C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\practice\\practice02\\account_balance.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "account_balance.txt",
+              "DocumentMoniker": "C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\practice\\practice02\\account_balance.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\practice\\practice02\\account_balance.txt",
+              "ToolTip": "C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\practice\\practice02\\account_balance.txt",
+              "RelativeToolTip": "..\\..\\..\\practice\\practice02\\account_balance.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-06T16:27:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\practice\\practice02\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\practice\\practice02\\main.cpp",
+              "ToolTip": "C:\\Users\\CobbLaniesha\\source\\repos\\Niesha90\\cpsc2376-ncobb\\practice\\practice02\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\practice\\practice02\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T16:26:51.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
