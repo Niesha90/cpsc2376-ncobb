@@ -2,14 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/tutorials/tutorial02
-/practice/practice02/x64/Debug
-/practice/practice02/practice02/x64/Debug/practice02.tlog
-/practice/practice02/.vs/practice02/FileContentIndex
-/practice/practice02
-/tutorials/x64/Debug/tutorial02.tlog
-/x64/Debug/practice02.tlog
-/tutorials/x64/Debug
-/x64/Debug
-/.gitattributes
-/tutorials/tutorial03/tutorial03
+*.vsidx
+/practice/practice01/.vs/practice01/v17
